@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+The staging area is the intermediary between the working directory and the repository.  It allows the user to select which files get added to the repository.
