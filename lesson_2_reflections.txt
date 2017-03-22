@@ -7,3 +7,5 @@ The staging area gives the user the opportunity to compare the differences betwe
 How do diagrams help you visualize the branch structure?
 It allows to trace back to each parent commit as long as the branch has a name.  Unnamed branches can get lost.
 
+What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
+Merging combines the changes made on two different branches.  The representation of the branch structure allows the individual commits to be accessible by the master branch.
