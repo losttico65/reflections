@@ -33,4 +33,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-Fill in your answer here
+	Fill in your answer here
+	A separate branch can be used to try new features before merging them into the master.  That way the master can stay unaffected until you are sure that the changes are what you want.  Working directly on the master can affect other collaborators and can cause conflicts at the time of merging.  But working directly on the master can be beneficial if the change is minor because then all collaborators can work with the most up-to-date master.
+	
